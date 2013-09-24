@@ -1,1 +1,10 @@
 ex03
+
+1/1
+
+README.md.txt -> README.md
+voir Forum pour le contenu
+
+utilise .gitignore
+
+
